@@ -1,0 +1,68 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    text-align: center;
+    padding: 4px;
+}
+.initial_hr{
+    margin-top: 0%;
+}
+h1{
+    font-style: oblique;
+    font-size: 40px;
+    margin-top: 4px;
+    margin-bottom: 14px;
+    font-weight: bolder;
+}
+h2{
+    font-size: 30px;
+}
+.established{
+    font-style: italic;
+}
+.snack_menu{
+    width: 50%;
+    background-color: rgb(198, 230, 243);
+    margin-left: auto;  /* box got into centre */
+    margin-right: auto;
+    padding: 20px;
+}
+hr{
+    background-color: rgb(42, 61, 165);
+    height: 1px;
+    border-color: rgb(42,61 ,165 );
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.item p{
+    display: inline-block; /*shirt -- price*/
+    margin-top: 1px;
+    margin-bottom: 1px;
+    padding-bottom: 0;
+    font-size: 18px;
+}
+.sandwich, .drinks{
+    text-align: left;
+    width: 78%;
+}
+.price{
+    text-align: right;
+}
+
+/* FOOTER SECTION */
+
+footer{
+    font-size: 13px;
+}
+a{
+    color: black;
+}
+a:hover{
+    color: brown;
+}
+a:active{
+    color: red;
+}
+.address{
+    margin-bottom: 0px;
+}
