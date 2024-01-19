@@ -23,15 +23,15 @@ h2{
 }
 .snack_menu{
     width: 50%;
-    background-color: rgb(198, 230, 243);
+    background-color: rgb(236, 199, 167);
     margin-left: auto;  /* box got into centre */
     margin-right: auto;
     padding: 20px;
 }
 hr{
-    background-color: rgb(42, 61, 165);
+    background-color: rgb(153, 56, 56);
     height: 1px;
-    border-color: rgb(42,61 ,165 );
+    border-color: rgb(153, 56, 56);
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 .item p{
